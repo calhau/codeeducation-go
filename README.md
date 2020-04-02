@@ -2,6 +2,11 @@
 
 ## Exercio 2 - Desafio Docker
 
+#### A Parte do Nginx Template, está no outro repositorio, separei Laravel de Go 
+- **[GITHUB - Repositorio Laravel](https://github.com/calhau/micro-laravel)**  
+
+==================================================================
+
 [x] - Criar imagem do Go_Lang com menos de 2MB - *ficou com 2.07M* =x  
 
 Imagem disponivel no DockerHub.
